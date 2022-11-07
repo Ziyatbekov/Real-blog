@@ -1,0 +1,68 @@
+.all-matches {
+    width: 80%;
+    margin: auto;
+}
+.match_list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 40px;
+}
+.match-item {
+    width: 33%;
+    height: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: thick solid #dcdcdc;
+    background-color: #9a9a9abf;
+    margin: 30px;
+}
+.past {
+    background-color: #fb3d3dbf;
+}
+.before {
+    background-color: #2bf62ebf;
+}
+.clubs {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    padding-left: 55px;
+    
+}
+.vs {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.time {
+    border-left: thick dashed #DCDCDC;
+    display: flex;
+    width: 30%;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+.left-block {
+    display: flex;
+    flex-direction: column;
+}
+.scores{
+    display: flex;
+    justify-content: center;
+}
+.scores p {
+    padding: 0 15px 0 15px;
+}
+.match-item p {
+    font-size: 16px;
+    color: black;
+}
+.match-item a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #DCDCDC;
+}
+.title-match{
+    display: flex;
+}

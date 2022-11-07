@@ -1,0 +1,63 @@
+.post-time {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 25px;
+    padding-bottom: 20px;
+
+}
+.date {
+    font-size: 24px;
+}
+.time {
+    font-size: 22px;
+}
+.status-wrapper {
+    display: flex;
+    align-items: center;
+}
+.post-header{ 
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.title-match {
+    display: flex;
+}
+
+h2{
+    padding-left: 20px;
+}
+.score-matches {
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+    height: 75px;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    
+}
+.text-field {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 25px;
+    padding-bottom: 40px;
+}
+.dop-info{
+    font-size: 24px;
+}
+.descr-info {
+    font-size: 18px;
+    display: flex;
+    justify-content: space-around;
+}
+.left-score {
+    width: 26%;
+}
+.right-score {
+    width: 30%;
+}

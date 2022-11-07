@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/c555da24-30e5-424d-829f-d5fe83c8d4c0/dbc4p2f-6ef90734-936a-424e-953a-7895ef479af4.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 100vh;
 }
 
 .App-logo {

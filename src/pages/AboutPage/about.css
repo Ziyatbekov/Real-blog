@@ -1,0 +1,38 @@
+.about-wrapper {
+    width: 80%;
+    padding-bottom: 50px;
+    margin: auto;
+    background-color: #dcdcdc91;
+    border-radius: 15px;
+}
+.about-pl{
+    margin-bottom: 75px;
+}
+.team {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.team p{
+    background-color: #00000091;
+    color: #ffffff;
+    padding: 0 15px 0 15px;
+}
+hr {
+    width: 80%;
+    border: 1px solid;
+    margin: 75px auto 75px;
+}
+.players {
+    background-color: #525252;
+    width: 50%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 70px;
+    border-radius: 15px;
+    color: aliceblue;
+}
+.img-player {
+    border-radius: 15px;
+}
